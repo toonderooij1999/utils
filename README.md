@@ -1,6 +1,6 @@
 ### basic utils
 
-#### article paywall remover
+#### 1. article paywall remover
 1. Dutch newspapers
 1.1 NRC
 1.2 Volkskrant
